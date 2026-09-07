@@ -18,8 +18,4 @@ A Streamlit application for interactive multi-FASTA quality control and sequence
 
 Live App link : https://gene-sequence-qc-profiler.streamlit.app/
 
-## Streamlit deployment
 
-Push the project folder to GitHub and deploy `app.py` as the main file.
-
-No database or secrets are required.
