@@ -16,24 +16,7 @@ A Streamlit application for interactive multi-FASTA quality control and sequence
 - Text summary report
 - Complete ZIP export
 
-## Project structure
-
-```text
-gene_sequence_qc_streamlit/
-├── app.py
-├── requirements.txt
-├── README.md
-└── backend/
-    ├── __init__.py
-    └── pipeline.py
-```
-
-## Run locally
-
-```bash
-python -m pip install -r requirements.txt
-streamlit run app.py
-```
+Live App link : https://gene-sequence-qc-profiler.streamlit.app/
 
 ## Streamlit deployment
 
